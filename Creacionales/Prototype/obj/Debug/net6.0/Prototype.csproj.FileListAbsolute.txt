@@ -1,0 +1,15 @@
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\diego.marin\OneDrive - NEORIS\Documents\Patrones de diseño\Creacionales\Prototype\obj\Debug\net6.0\ref\Prototype.dll
